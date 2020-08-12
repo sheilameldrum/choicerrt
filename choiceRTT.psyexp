@@ -218,7 +218,7 @@
         <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
         <Param name="stopVal" updates="constant" val="" valType="code"/>
         <Param name="syncScreenRefresh" updates="None" val="True" valType="bool"/>
-        <Param name="text" updates="constant" val="In this task you will push the c, v, b, and n keys or click/touch the target whenever you see the target 'X' appear.&amp;#10;&amp;#10;First, we shall have a practice.&amp;#10;&amp;#10;Push space bar or click/touch to begin the practice session." valType="str"/>
+        <Param name="text" updates="constant" val="In this task you will push the c, v, b, and n keys whenever you see the target 'X' appear in one of the four boxes.&amp;#10;&amp;#10;First, we shall have a practice.&amp;#10;&amp;#10;Push space bar or click/touch to begin the practice session." valType="str"/>
         <Param name="units" updates="None" val="height" valType="str"/>
         <Param name="wrapWidth" updates="constant" val="" valType="code"/>
       </TextComponent>
