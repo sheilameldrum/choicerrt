@@ -8,11 +8,6 @@ The task
 
 Deary and Liewald (2011) developed the choice reaction time task that requires participants to respond to one of a number of stimuli. In this task, participants must push one of four response keys that corrrespond to a target stimuli that appears in a corresponding location on screen.
 
-Extensions
---------------
-
-See if you can modify this task so that randomization of the ISI is handled within a code component, rather than using a set ISI from the excel conditions file.
-
 References
 --------------
 
