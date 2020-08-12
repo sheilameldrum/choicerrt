@@ -115,7 +115,7 @@ function experimentInit() {
   instr = new visual.TextStim({
     win: psychoJS.window,
     name: 'instr',
-    text: "In this task you will push the space bar or click/touch the target whenever you see the target 'X' appear.\n\nFirst, we shall have a practice.\n\nPush space bar or click/touch to begin the practice session.",
+    text: "In this task you will push the c, v, b, and n keys or click/touch the target whenever you see the target 'X' appear.\n\nFirst, we shall have a practice.\n\nPush space bar or click/touch to begin the practice session.",
     font: 'Arial',
     units: 'height', 
     pos: [0, 0], height: 0.035,  wrapWidth: undefined, ori: 0,
@@ -259,7 +259,7 @@ function experimentInit() {
   text = new visual.TextStim({
     win: psychoJS.window,
     name: 'text',
-    text: 'Thanks you for participanting!\n\nThe experiment is now over.',
+    text: 'Thanks you for participanting!\n\nThis part of experiment is now over.',
     font: 'Arial',
     units: 'height', 
     pos: [0, 0], height: 0.05,  wrapWidth: undefined, ori: 0,
